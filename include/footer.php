@@ -7,7 +7,7 @@
 <footer>
     <div class="container">
         <div class="row justify-content-center">
-            <span> © 2000 <a href="#"> VladislavCorporation</a>. Все права защищены.</span>
+            <span> © 2000 <a href="#"> VladislavCorporation</a>. Say hello to <a href="https://vk.com/the_happiest_man_ever">me</a>)).</span>
         </div>
     </div>
 </footer>
